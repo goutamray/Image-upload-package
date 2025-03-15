@@ -1,0 +1,19 @@
+{
+  "name": "gouta/upload-file",
+  "description": "This is image upload package",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "WebSquad\\Goutam\\Pioneer\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "goutam",
+      "email": "goutamr362@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
